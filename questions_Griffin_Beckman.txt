@@ -1,0 +1,15 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+I can do any math (simple) problems, print text, run different functions, push files to github, pull files from github, etc. The language my computer terminal is in is python (but the actual computer runs omn binary).
+
+2. Do you have pets? What kind?
+None
+
+3. If you run across an error, what would your first course of action be?
+I would generally google it, but the terminal/vs code shows an error message which might easily help me to solve it or at least show me which path to take to solve it.
+
+4. Funniest thing that happened to you in high school.
+I can't remeber anything specific, I have tried to forget everything about highschool.
+
+5. What is a python script? (Keep it simple)
+It is basically a code or function in python that tells your computer to do something.
+
